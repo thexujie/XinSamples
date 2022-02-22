@@ -1,0 +1,1 @@
+"H:\Projs\XinSamples\Binaries\Release_x64_v143\Reflector.exe" "H:\Projs\XinSamples\Xin\Sources\Runtime\Xin.Core.Foundation\Basic\Strings.h"

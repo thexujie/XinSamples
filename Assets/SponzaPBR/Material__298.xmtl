@@ -1,0 +1,11 @@
+{
+  "Version": "1.0",
+  "Parent": "/Sponza/Materials/Sponza.xmtt",
+  "Parameters": {
+    "DiffuseTexture": "/SponzaPBR/background_D.xtex",
+    "NormalTexture": "/SponzaPBR/background_N.xtex"
+  },
+  "Definetions": {
+    "SPONZA_SPECULAR_TEXTURE": "0"
+  }
+}

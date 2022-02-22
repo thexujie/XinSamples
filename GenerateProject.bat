@@ -1,0 +1,1 @@
+".\Xin\Binaries\DotNet90\Release\net9.0\ProjectGenerator.exe"

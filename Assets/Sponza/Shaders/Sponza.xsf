@@ -1,0 +1,91 @@
+#ifndef XIN_MATERIAL
+#define XIN_MATERIAL 1
+
+#include "Common.xsh"
+
+#ifndef SPONZA_DIFFUSE_TEXTURE
+#define SPONZA_DIFFUSE_TEXTURE 1
+#endif
+
+#ifndef SPONZA_NORMAL_TEXTURE
+#define SPONZA_NORMAL_TEXTURE 1
+#endif
+
+#ifndef SPONZA_SPECULAR_TEXTURE
+#define SPONZA_SPECULAR_TEXTURE 1
+#endif
+
+#ifndef SPONZA_MASKED
+#define SPONZA_MASKED 0
+#endif
+
+#ifndef XIN_SSAO_TEXTURE
+#define XIN_SSAO_TEXTURE 1
+#endif
+
+
+#if SPONZA_DIFFUSE_TEXTURE
+Texture2D DiffuseTexture;
+#endif
+
+#if SPONZA_NORMAL_TEXTURE
+Texture2D NormalTexture;
+#endif
+
+#if SPONZA_SPECULAR_TEXTURE
+Texture2D SpecularTexture;
+#endif
+
+#if XIN_SSAO_TEXTURE
+Texture2D<float> Occlusion;
+#endif
+
+#define DefaultSampler LinearWrapSampler
+
+float3 GetMaterialDiffuse(float2 Texcoord)
+{
+#if SPONZA_DIFFUSE_TEXTURE
+    return DiffuseTexture.Sample(DefaultSampler, Texcoord);
+#else
+    return float3(0.0f, 0.0f, 0.0f);
+#endif
+}
+
+float3 GetMaterialNormal(float3 InputNormal, float2 Texcoord)
+{
+#if SPONZA_NORMAL_TEXTURE
+    return NormalTexture.Sample(DefaultSampler, Texcoord).rgb * 2.0f - 1.0f;
+#else
+    return InputNormal;
+#endif
+}
+
+float GetMaterialSpecular(float InputSpecular, float2 Texcoord)
+{
+#if SPONZA_SPECULAR_TEXTURE
+    return SpecularTexture.Sample(DefaultSampler, Texcoord).g;
+#else
+    return InputSpecular;
+#endif
+}
+
+float GetMaterialAO(float4 ScreenPosition)
+{
+#if XIN_SSAO_TEXTURE
+    uint2 PixelCoord = uint2(ScreenPosition.xy);
+    return Occlusion[PixelCoord];
+#else
+    return 1.0f;
+#endif
+}
+
+void MaterialClipping(float2 Texcoord)
+{
+#if SPONZA_MASKED && SPONZA_DIFFUSE_TEXTURE
+    float Alpha = DiffuseTexture.Sample(DefaultSampler, Texcoord).a;
+    if (Alpha < 0.5f)
+		discard;
+#endif
+}
+
+#endif // XIN_MATERIAL

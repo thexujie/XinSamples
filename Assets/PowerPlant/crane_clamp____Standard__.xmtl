@@ -1,0 +1,7 @@
+{
+  "Version": "1.0",
+  "Shader": "Engine/Shaders/Default.hlsl",
+  "Parameters": {
+    "DiffuseTexture": "/PowerPlant/crn_clamp_a_D.xtex"
+  }
+}

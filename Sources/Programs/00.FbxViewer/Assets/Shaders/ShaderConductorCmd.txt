@@ -1,0 +1,4 @@
+H:\Projs\ShaderConductor\Build\Bin\Debug\ShaderConductorCmd.exe -O Color.vert -I "H:\Projs\XinSamples\Xin\Assets\Programs\00.Test.RHI\Contents\Shaders\Color.xsf" -E "MainVS" -S "vs" -T "glsl"
+H:\Projs\ShaderConductor\Build\Bin\Debug\ShaderConductorCmd.exe -O Color.frag -I "H:\Projs\XinSamples\Xin\Assets\Programs\00.Test.RHI\Contents\Shaders\Color.xsf" -E "MainPS" -S "ps" -T "glsl"
+
+H:\Projs\ShaderConductor\Build\Bin\Debug\ShaderConductorCmd.exe -O Image.frag -I "H:\Projs\XinSamples\Xin\Assets\Programs\00.Test.RHI\Contents\Shaders\Image.xsf" -E "MainPS" -S "ps" -T "glsl"

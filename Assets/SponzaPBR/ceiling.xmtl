@@ -1,0 +1,11 @@
+{
+  "Version": "1.0",
+  "Parent": "/Sponza/Materials/Sponza.xmtt",
+  "Parameters": {
+    "DiffuseTexture": "/SponzaPBR/sponza_ceiling_a_D.xtex",
+    "SpecularTexture": "/SponzaPBR/sponza_ceiling_a_S.xtex"
+  },
+  "Definetions": {
+    "SPONZA_NORMAL_TEXTURE": "0"
+  }
+}

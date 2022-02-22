@@ -1,0 +1,7 @@
+{
+  "Version": "1.0",
+  "Shader": "Engine/Shaders/Default.hlsl",
+  "Parameters": {
+    "DiffuseTexture": "/PowerPlant/tank_side_D.xtex"
+  }
+}

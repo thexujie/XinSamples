@@ -1,0 +1,1 @@
+"..\..\Binaries\x64\MetaParser.exe" "..\..\Xin\Sources\Runtimes\Xin.UI" --ForceGenerate

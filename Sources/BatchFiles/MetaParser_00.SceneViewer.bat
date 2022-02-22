@@ -1,0 +1,1 @@
+"..\..\Binaries\x64\MetaParser.exe" "..\..\Sources\Programs\00.SceneViewer" --ForceGenerate=0

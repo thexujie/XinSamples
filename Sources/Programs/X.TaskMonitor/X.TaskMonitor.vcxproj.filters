@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Modules\Module_ntdll.h">
+      <Filter>Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="PCH.h" />
+    <ClInclude Include="Process\ProcessItem.h">
+      <Filter>Process</Filter>
+    </ClInclude>
+    <ClInclude Include="Process\ProcessManager.h">
+      <Filter>Process</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskMonitor.h" />
+    <ClInclude Include="Utils\ShellItemImage.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="X.TaskMonitor.h" />
+    <ClInclude Include="X.TaskMonitor.Types.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Modules\Module_ntdll.cpp">
+      <Filter>Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="PCH.cpp" />
+    <ClCompile Include="Process\ProcessItem.cpp">
+      <Filter>Process</Filter>
+    </ClCompile>
+    <ClCompile Include="Process\ProcessManager.cpp">
+      <Filter>Process</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskMonitor.cpp" />
+    <ClCompile Include="Utils\ShellItemImage.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="X.TaskMonitor.cpp" />
+    <ClCompile Include="X.TaskMonitor.Types.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="__Types\Process\ProcessItem.inl">
+      <Filter>__Types\Process</Filter>
+    </None>
+    <None Include="__Types\Process\ProcessManager.inl">
+      <Filter>__Types\Process</Filter>
+    </None>
+    <None Include="__Types\Utils\ShellItemImage.inl">
+      <Filter>__Types\Utils</Filter>
+    </None>
+    <None Include="X.TaskMonitor.Module.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="__Types">
+      <UniqueIdentifier>{d43a3a43-8dff-4866-8dfa-52e8478f4590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="__Types\Process">
+      <UniqueIdentifier>{5b222d33-30e1-460b-8cb9-cc3e29d46afb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="__Types\Utils">
+      <UniqueIdentifier>{14e3ff4e-4e58-4e9e-a8ae-328da4ccdf9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules">
+      <UniqueIdentifier>{4cd982aa-2c11-49c0-a064-7129a8b88e11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Process">
+      <UniqueIdentifier>{4cb1b970-741e-4ee6-af3e-43319941b5e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{813b41b9-46f5-4d25-b165-0d318c382b25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

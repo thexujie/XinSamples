@@ -1,0 +1,1 @@
+"..\..\Binaries\x64\MetaParser.exe" "..\..\Sources\Programs\Xin.TaskMonitor" --ForceGenerate=0

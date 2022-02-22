@@ -1,0 +1,1 @@
+"..\..\Xin\Binaries\DotNet60\Debug\net6.0\ProjectGenerator.exe"

@@ -1,0 +1,107 @@
+{
+  "Version": "1.0",
+  "Elements": [
+    {
+      "Material": "/SponzaPBR/leaf.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/Material__57.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/vase_round.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/Material__298.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/16___Default.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/bricks.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/bricks.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/arch.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/ceiling.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/column_a.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/arch.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/floor.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/column_c.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/details.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/floor.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/column_b.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/column_b.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/Material__47.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/flagpole.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/leaf.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/fabric_e.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/fabric_d.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/fabric_a.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/flagpole.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/fabric_g.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/fabric_c.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/fabric_f.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/chain.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/vase_hanging.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/vase_hanging.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/Material__57.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/vase.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/Material__25.xmtl"
+    },
+    {
+      "Material": "/SponzaPBR/roof.xmtl"
+    }
+  ]
+}

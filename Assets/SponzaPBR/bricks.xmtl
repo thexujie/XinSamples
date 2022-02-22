@@ -1,0 +1,9 @@
+{
+  "Version": "1.0",
+  "Parent": "/Sponza/Materials/Sponza.xmtt",
+  "Parameters": {
+    "DiffuseTexture": "/SponzaPBR/spnza_bricks_a_D.xtex",
+    "NormalTexture": "/SponzaPBR/spnza_bricks_a_N.xtex",
+    "SpecularTexture": "/SponzaPBR/spnza_bricks_a_S.xtex"
+  }
+}

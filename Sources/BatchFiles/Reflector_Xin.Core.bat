@@ -1,0 +1,1 @@
+"..\..\Binaries\x64\Reflector.exe" "..\..\Xin\Sources\Runtime\Xin.Core" --ForceGenerate=0

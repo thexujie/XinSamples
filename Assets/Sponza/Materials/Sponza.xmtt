@@ -1,0 +1,10 @@
+{
+  "Version": "1.0",
+  "Shader": "/Sponza/Shaders/Sponza.hlsl",
+  "Definetions": {
+    "SPONZA_DIFFUSE_TEXTURE": 1,
+    "SPONZA_NORMAL_TEXTURE": 1,
+    "SPONZA_SPECULAR_TEXTURE": 1,
+    "SPONZA_MASKED": 0
+  }
+}

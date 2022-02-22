@@ -1,0 +1,11 @@
+{
+  "Version": "1.0",
+  "Parent": "/Sponza/Materials/Sponza.xmtt",
+  "Parameters": {
+    "DiffuseTexture": "/SponzaPBR/vase_D.xtex",
+    "NormalTexture": "/SponzaPBR/vase_N.xtex"
+  },
+  "Definetions": {
+    "SPONZA_SPECULAR_TEXTURE": "0"
+  }
+}

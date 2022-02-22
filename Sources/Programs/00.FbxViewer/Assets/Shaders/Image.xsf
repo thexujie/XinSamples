@@ -1,0 +1,67 @@
+
+struct BaseInputVS
+{
+    float3 Position : POSITION;
+    float2 Texcoord : TEXCOORD;
+};
+
+struct BaseOutputVS
+{
+    float4 Position : SV_POSITION;
+    float2 Texcoord : TEXCOORD;
+};
+
+struct BaseOutputPS
+{
+    float4 Color : SV_Target0;
+};
+
+cbuffer WorldParameters
+{
+    float4x4 WorldMatrix;
+};
+
+cbuffer ViewParameters
+{
+    float4x4 ViewProjectionMatrix;
+};
+
+cbuffer PixelParameters
+{
+    float4 Color;
+};
+
+//cbuffer MaterialParameters : register(b0)
+//{
+//    float4 Color;
+//};
+
+BaseOutputVS MainVS(BaseInputVS Input)
+{
+    float4 WorldPosition = mul(float4(Input.Position, 1.0f), WorldMatrix);
+    float4 ScreenPosition = mul(WorldPosition, ViewProjectionMatrix);
+
+    BaseOutputVS Result;
+    Result.Position = ScreenPosition;
+    Result.Texcoord = Input.Texcoord;
+    
+    return Result;
+}
+
+#if XIN_OPENGL
+#define TC_Formal(uv) float2(uv.x, 1.0f - uv.y)
+#else
+#define TC_Formal(uv) (uv)
+#endif
+
+Texture2D ImageA;
+Texture2D ImageB;
+SamplerState LinearClamp : register(s0);
+
+BaseOutputPS MainPS(BaseOutputVS Input, bool IsFrontFace : SV_IsFrontFace)
+{
+    BaseOutputPS Output;
+    Output.Color = Color * max(ImageA.Sample(LinearClamp, TC_Formal(Input.Texcoord)), ImageB.Sample(LinearClamp, TC_Formal(Input.Texcoord)));
+    //Output.Color = float4(Input.Texcoord, 0, 1);
+    return Output;
+}

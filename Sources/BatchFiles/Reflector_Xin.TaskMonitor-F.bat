@@ -1,0 +1,1 @@
+"..\..\Binaries\x64\Reflector.exe" "..\..\Sources\Programs\Xin.TaskMonitor" --ForceGenerate=1

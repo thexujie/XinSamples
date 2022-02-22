@@ -1,0 +1,11 @@
+{
+  "Version": "1.0",
+  "Parent": "/Sponza/Materials/Sponza.xmtt",
+  "Parameters": {
+    "DiffuseTexture": "/SponzaPBR/sponza_curtain_green_D.xtex"
+  },
+  "Definetions": {
+    "SPONZA_NORMAL_TEXTURE": "0",
+    "SPONZA_SPECULAR_TEXTURE": "0"
+  }
+}

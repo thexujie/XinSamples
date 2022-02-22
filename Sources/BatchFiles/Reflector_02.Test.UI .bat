@@ -1,0 +1,1 @@
+"..\..\Binaries\x64\Reflector.exe" "..\..\Xin\Sources\Programs\02.Test.UI" --ForceGenerate=0

@@ -1,0 +1,860 @@
+{
+  "Version": "1.0",
+  "Elements": [
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/mav_body____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/mav_light____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/mav_ring____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tank_top____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tank_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tow_tex____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/red_girder_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/red_girder_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/red_girder_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/red_girder_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/rebar____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_grate____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/hz_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_cement_panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_c____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_d____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pipe_c____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_d____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_f____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_g____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_e____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crn_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pan_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_d____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_f____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_g____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/plan_e____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crn_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pan_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grating____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/gravel_c____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/test_ground_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pad_round_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/gravel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/concrete_pad____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/hill_mound_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/dirt_turnaround_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/trench_surround____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/trench____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/road_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/road_end_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/road_end_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/road_straight____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/concrete_edge____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/trench_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_shaft____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_blade_map.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/Material__55____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_shaft____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_blade_map.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/Material__55____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grating____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_grate____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/hz_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_cement_panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_shaft____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_blade_map.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/Material__55____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grating____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grating____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/hz_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_cement_panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_shaft____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/fan_blade_map.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/Material__55____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grating____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grating____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/hz_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_cement_panel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/truss_end____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/___Default____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tow_tex____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_side____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/tower_cap____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_gry____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_orn____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_grn____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_gry____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_orn____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_grn____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/command_tower____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/command_tower____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/command_tower____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/rebar_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/rebar_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/sm_pan_a____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/rebar_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/floor_top____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/elevator____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/bottom_ele____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/grabbers____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/light____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/rails____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/container_hab____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/phong1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crn_pan_a____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/walkways____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/walkways____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/walkways____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/walkways____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ring_a____Standard___0.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/orig_strut_cage____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/wall_nolite____Standard__2.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/ele_track____Standard__2.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/stripe____Standard__2.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_clamp____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_wheel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/orig_wheel_house____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_clamp____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_wheel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/orig_wheel_house____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_clamp____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crn_pan_a____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/pan_b____Standard__1.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/orig_basket_map____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_light____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_light_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_light____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_light_b____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_wheel____Standard__.xmtl"
+    },
+    {
+      "Material": "/PowerPlant/crane_wheel____Standard__.xmtl"
+    }
+  ]
+}

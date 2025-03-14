@@ -3,7 +3,7 @@
 
 #include "LocalAsset.h"
 
-#include "Xin.Core.Foundation/Platform/Windows/WindowsHeader.h"
+#include "Xin.Core/Platform/Windows/WindowsPrivate.h"
 #include "SDKMeshMisc.h"
 
 namespace SDK

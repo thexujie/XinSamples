@@ -84,11 +84,11 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Xin\Sources\Runtime\Xin.Base\Xin.Base.vcxproj">
+      <Project>{E014A50D-3F4D-4F15-8FB5-2079C677EB7E}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\..\Xin\Sources\Runtime\Xin.Core\Xin.Core.vcxproj">
       <Project>{561E1FED-95E6-4087-9451-6C49DED55C0D}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Xin\Sources\Runtime\Xin.Core.Foundation\Xin.Core.Foundation.vcxproj">
-      <Project>{12980B32-0E51-4BDB-87DB-04F913AFBAB6}</Project>
     </ProjectReference>
   </ItemGroup>
 </Project>

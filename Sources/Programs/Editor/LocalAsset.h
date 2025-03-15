@@ -1,6 +1,6 @@
 #pragma once
 
-const FStringV DefaultMaterialShader = u8"Engine/Shaders/Default.hlsl"V;
+const FStringV DefaultMaterialShader = u8"Engine/Shaders/Default.xsf"V;
 const FStringV SponzaDefaultMaterialAssetPath = u8"/Sponza/Materials/Sponza.xmtt"V;
 const FStringV DiffuseTexture = u8"DiffuseTexture"V;
 

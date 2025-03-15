@@ -1,7 +1,7 @@
 #ifndef XIN_MATERIAL
 #define XIN_MATERIAL 1
 
-#include "Common.hlsli"
+#include "Common.xsh"
 
 #ifndef SPONZA_DIFFUSE_TEXTURE
 #define SPONZA_DIFFUSE_TEXTURE 1

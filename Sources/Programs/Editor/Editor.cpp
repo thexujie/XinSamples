@@ -94,7 +94,7 @@ int main(int argc, const char * args[])
 
 	//ImportTexture(Str("../../Data/Cat.jpg"), Str("../Assets/Cat.xtex"));
 
-	//ImportMaterial(Str("Assets/Shaders/Default.hlsl"), Str("../Assets/Default.xmtl"));
-	//ImportMaterial(Str("Assets/Shaders/BaseColor.hlsl"), Str("../Assets/BaseColor.xmtl"));
+	//ImportMaterial(Str("Assets/Shaders/Default.xsf"), Str("../Assets/Default.xmtl"));
+	//ImportMaterial(Str("Assets/Shaders/BaseColor.xsf"), Str("../Assets/BaseColor.xmtl"));
 	return 0;
 }

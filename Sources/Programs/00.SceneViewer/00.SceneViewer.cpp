@@ -20,17 +20,6 @@ using namespace Xin::Engine;
 #define XIN_PAINTER 1
 
 
-template<typename T>
-constexpr T NoneIndex;
-
-
-template<>
-constexpr uint32 NoneIndex<uint32> = NullIndex;
-
-template<>
-constexpr uint64 NoneIndex<uint64> = NullIndex;
-
-
 //static FStringV XMeshFilePath = u8"Sponza/sponza.xmsh"V;
 static FStringV XMeshFilePath = u8"SponzaPBR/sponza.xmsh"V;
 //static FStringV XMeshFilePath = u8"PowerPlant/powerplant.xmsh"V;
